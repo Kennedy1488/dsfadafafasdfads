@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+}
+
+.wrapper {
+    width: 1000px;
+    min-height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
